@@ -1,7 +1,6 @@
 # KrazyThief's Falcon 9 and FH SFS ModPack:
 
-![image](https://github.com/KrazyThief20543/KrazyThief-s-Falcon-9-and-FH-SFS-ModPack/assets/144376723/57394f75-9d76-46bb-a50c-6cb7dca8b1f6)
-
+![Screenshot 2024-04-21 100717](https://github.com/KrazyThief20543/KrazyThief-s-Falcon-9-and-FH-SFS-ModPack/assets/144376723/5d62799a-1bb1-4c42-8b98-d86e44f3fe33)
 
 Image of Stage 1 Engine being made in unity.
 
