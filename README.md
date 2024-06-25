@@ -1,13 +1,13 @@
 # KrazyThief's Falcon 9 and FH SFS *ModPack*:
 ## Planning to add following:
 
-- RCS
+- RCS [Done , Wanna possibly make it look better]
 - Stage 2 Fuel Tank and Engine with togglabe shorter variant [Done] {Planning to add more detail}
-- Falcon Fairing with logo toggle
-- Block heavy variant
+- Falcon Fairing with logo toggle [Kinda Done]
+- Block heavy variant 
 - Grid fins
 - Landing Legs
-- Interstage
+- Interstage [Done]
 - Custom engine sounds [Done]
 - Custom plumes [Kinda Done] {Hoping to customise Sea level plumes}
 - Making landing legs and Gridfins extend and retract facing the viewer
@@ -20,7 +20,8 @@ p.s. I thank Mac,Cryptowave, PrimeAerospace,Picospace Industries and Vapor Space
 # Images:
 ## An Image of the parts that I have built so far:
 
-![image](https://github.com/KrazyThief20543/KrazyThief-s-Falcon-9-and-FH-SFS-ModPack/assets/144376723/b9ee4b1b-4b3d-4d25-94d2-38c26f9140e6)
+![image](https://github.com/KrazyThief20543/KrazyThief-s-Falcon-9-and-FH-SFS-ModPack/assets/144376723/3c97fd9a-bbc7-4d00-bbfd-fd43eb5ca191)
+
 
 ## In Space (Missing Payload...):
 ![image](https://github.com/KrazyThief20543/KrazyThief-s-Falcon-9-and-FH-SFS-ModPack/assets/144376723/ebe9bea6-e1d0-47f6-b399-cc79fd6f6aaa)
