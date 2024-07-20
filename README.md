@@ -1,4 +1,7 @@
 # KrazyThief's Falcon 9 and FH SFS *ModPack*:
+
+This is a modpack for the falcon 9 and soon the falcon heavy rockets that were made by SpaceX, with unique features like changing ISP of Engine, changing nozzle and changing logos on the upper fuel tank.
+
 ## Planning to add following:
 
 - RCS [Done, Wanna possibly make it look better]
