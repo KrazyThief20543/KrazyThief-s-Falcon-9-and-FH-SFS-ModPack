@@ -1,6 +1,6 @@
 # KrazyThief's Falcon 9 and FH SFS *ModPack*:
 
-Pipes in side booster traced over by Alivuah: https://en.wikipedia.org/wiki/Falcon_Heavy#/media/File:F9_and_Heavy_visu.png
+The Pipes in side boosters were traced over Alivuah's work: https://en.wikipedia.org/wiki/Falcon_Heavy#/media/File:F9_and_Heavy_visu.png
 
 This is a modpack for the falcon 9 and soon the falcon heavy rockets that were made by SpaceX, with unique features like changing ISP of Engine, changing nozzle and changing logos on the upper fuel tank.
 
