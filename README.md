@@ -6,26 +6,29 @@ This is a modpack for the falcon 9 and soon the falcon heavy rockets that were m
 
 ## Planning to add following:
 
-- RCS [Done, Wanna possibly make it look better]
+- RCS [Done]
 - Stage 2 Fuel Tank and Engine with togglabe shorter variant [Done] {Planning to add more detail}
 - Falcon Fairing with logo toggle [Kinda Done]
-- Block Heavy variant 
-- Grid fins
-- Landing Legs
+- Block Heavy variant [Needs Booster Seperator]
+- Grid fins [Planning to Do Next]
+- Landing Legs [Done] {Possibly a piston overhaul?}
 - Interstage [Done]
 - Custom engine sounds [Done]
-- Custom plumes [Kinda Done] {Hoping to customise Sea level plumes}
+- Custom plumes [Done]
 - Making landing legs and Gridfins extend and retract facing the viewer
 - Possibly adding pipes and a toggle for variants... [Kinda Done; Wanna use sliders instead of 4 toggles]
-- Toggle For Block and non Block Variants of fuel tanks and side boosters
+- Toggle For Block and non Block Variants of fuel tanks and side boosters [Kinda Done] {Don't forget Falcon 5 and Falcon 1.0 and 1.1}
 - Correctly Order parts once done
 
 
-p.s. I thank Mac, Cryptowave, PrimeAerospace, Picospace Industries and Vapor Space For helping me getting into sfs modding as I was an **ABSOLUTE** beginner to unity and making mods 👍.
+p.s. I thank Mac, Cryptowave, PrimeAerospace, Picospace Industries, Brioche and VaporSpace For helping me getting into sfs modding as I was an **ABSOLUTE** beginner to unity and making mods 👍
+(Make sure to check their mods out as well).
+
 # Images:
 ## An Image of the parts that I have built so far:
 
-![image](https://github.com/user-attachments/assets/ac4de91d-20ac-49f4-9201-55db20470d5f)
+![image](https://github.com/user-attachments/assets/d22cc3d4-2a74-40cb-82cf-9bcc32047f14)
+
 
 ## The 4 Side Booster Variants:
 
@@ -33,6 +36,7 @@ p.s. I thank Mac, Cryptowave, PrimeAerospace, Picospace Industries and Vapor Spa
 
 
 ## Upperstage In Space:
-![image](https://github.com/KrazyThief20543/KrazyThief-s-Falcon-9-and-FH-SFS-ModPack/assets/144376723/44a233f1-a7e9-425b-b76d-ebb25ca16993)
+![Screenshot 2024-08-18 220854](https://github.com/user-attachments/assets/3873c03d-d300-4635-98b5-0bf792316e24)
+
 
 
