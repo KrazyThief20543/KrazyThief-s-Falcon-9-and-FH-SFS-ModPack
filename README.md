@@ -4,6 +4,8 @@ The Pipes in side boosters were traced over Alivuah's work: https://en.wikipedia
 
 This is a modpack for the falcon 9 and soon the falcon heavy rockets that were made by SpaceX, with unique features like changing ISP of Engine, changing nozzle and changing logos on the upper fuel tank.
 
+# THIS IS UNFINISHED so bewary of bugs/left out features!
+
 ## Planning to add following:
 
 - RCS [Done]
@@ -11,13 +13,13 @@ This is a modpack for the falcon 9 and soon the falcon heavy rockets that were m
 - Falcon Fairing with logo toggle [Kinda Done]
 - Block Heavy variant [Needs Booster Seperator]
 - Grid fins [Planning to Do Next]
-- Landing Legs [Done] {Possibly a piston overhaul?}
+- Landing Legs [Done] {Possibly another overhaul?}
 - Interstage [Done]
 - Custom engine sounds [Done]
 - Custom plumes [Done]
-- Making landing legs and Gridfins extend and retract facing the viewer
+- Making landing legs and Gridfins extend and retract facing the viewer [Done]
 - Possibly adding pipes and a toggle for variants... [Kinda Done; Wanna use sliders instead of 4 toggles]
-- Toggle For Block and non Block Variants of fuel tanks and side boosters [Kinda Done] {Don't forget Falcon 5 and Falcon 1.0 and 1.1}
+- Toggle For Block and non Block Variants of fuel tanks and side boosters [Kinda Done] {Don't forget Falcon 5 and Falcon 1.0 and 1.1v}
 - Correctly Order parts once done
 
 
