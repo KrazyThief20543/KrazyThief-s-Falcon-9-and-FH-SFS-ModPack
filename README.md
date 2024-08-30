@@ -4,7 +4,7 @@ The Pipes in side boosters were traced over Alivuah's work: https://en.wikipedia
 
 This is a modpack for the falcon 9 and soon the falcon heavy rockets that were made by SpaceX, with unique features like changing ISP of Engine, changing nozzle and changing logos on the upper fuel tank.
 
-# THIS IS UNFINISHED so bewary of bugs/left out features!
+# THIS IS UNFINISHED so bewary of bugs/left out features! Also, as of writing, I am reworking the vaccum engine nozzle and plume.
 
 ## Planning to add following:
 
