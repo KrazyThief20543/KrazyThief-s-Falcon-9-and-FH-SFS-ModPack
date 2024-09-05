@@ -39,7 +39,4 @@ p.s. I thank Mac, Cryptowave, PrimeAerospace, Picospace Industries, Brioche and 
 
 
 ## Upperstage In Space:
-![Screenshot 2024-08-18 220854](https://github.com/user-attachments/assets/3873c03d-d300-4635-98b5-0bf792316e24)
-
-
-
+![Screenshot 2024-09-05 220633](https://github.com/user-attachments/assets/89fa5dca-f957-4581-8d6c-7ab851e1a625)
