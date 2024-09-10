@@ -29,7 +29,8 @@ p.s. I thank Mac, Cryptowave, PrimeAerospace, Picospace Industries, Brioche and 
 # Images:
 ## An Image of the parts that I have built so far:
 
-![image](https://github.com/user-attachments/assets/e8c599cb-8898-4ed7-aa17-2012409df895)
+![image](https://github.com/user-attachments/assets/79ccd9b2-6992-4a77-af80-9edcc1c9c7a1)
+
 
 
 
