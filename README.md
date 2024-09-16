@@ -27,10 +27,9 @@ p.s. I thank Mac, Cryptowave, PrimeAerospace, Picospace Industries, Brioche and 
 (Make sure to check their mods out as well).
 
 # Images:
-## An Image of the parts that I have built so far:
+## An Image of the Falcon Heavy:
 
-![image](https://github.com/user-attachments/assets/79ccd9b2-6992-4a77-af80-9edcc1c9c7a1)
-
+![image](https://github.com/user-attachments/assets/568b8c6a-509d-4d00-91ff-c09f261a8a5e)
 
 
 
