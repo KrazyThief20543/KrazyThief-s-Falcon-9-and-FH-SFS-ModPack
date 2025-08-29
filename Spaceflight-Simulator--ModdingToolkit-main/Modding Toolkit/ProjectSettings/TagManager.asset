@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Priority
+  - Specific UI
+  - Map Button
+  - Terrain
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Parts
+  - Part Hitbox
+  - Celestial Body
+  - Map
+  - Non Colliding Parts
+  - Scaled Space
+  - 
+  - Part Icon
+  - Front Parts
+  - Stars
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - .
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Docking Trigger
+  - Flame Trigger
+  m_SortingLayers:
+  - name: Back
+    uniqueID: 1680403729
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 3505250655
+    locked: 0
+  - name: UI
+    uniqueID: 1418543263
+    locked: 0
+ 
