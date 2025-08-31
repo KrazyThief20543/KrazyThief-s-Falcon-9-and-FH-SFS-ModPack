@@ -66,7 +66,7 @@ Material:
     - PixelSnap: 0
     - _BumpScale: 1
     - _Cutoff: 0.5
-    - _Depth: 1
+    - _Depth: 0
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _EnableExternalAlpha: 0

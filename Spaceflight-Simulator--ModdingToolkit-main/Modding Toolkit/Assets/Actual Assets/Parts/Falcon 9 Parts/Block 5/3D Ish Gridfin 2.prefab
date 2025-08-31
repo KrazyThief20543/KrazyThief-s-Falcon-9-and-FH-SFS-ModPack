@@ -10209,7 +10209,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 85fc94dccdd780049b4ac6eb441000b4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  attachmentSurfaces: 0
+  attachmentSurfaces: 1
   dragSurfaces: 1
   colliderArea: 0
   attachByOverlap: 1

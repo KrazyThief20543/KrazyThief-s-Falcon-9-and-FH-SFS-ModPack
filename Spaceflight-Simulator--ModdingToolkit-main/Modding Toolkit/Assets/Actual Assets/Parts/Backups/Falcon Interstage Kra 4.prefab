@@ -5098,9 +5098,7 @@ MonoBehaviour:
   variants:
   - variants:
     - changes: []
-      tags:
-      - tag: {fileID: 11400000, guid: eae1f25c029f8444eb5626c31b8bd338, type: 2}
-        priority: -20
+      tags: []
       cost: 0
     tags: []
   onPartUsed:
