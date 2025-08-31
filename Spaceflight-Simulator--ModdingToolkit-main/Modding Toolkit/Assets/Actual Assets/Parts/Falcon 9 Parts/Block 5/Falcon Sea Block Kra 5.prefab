@@ -37970,7 +37970,9 @@ MonoBehaviour:
   variants:
   - variants:
     - changes: []
-      tags: []
+      tags:
+      - tag: {fileID: 11400000, guid: b3662654a11afd448b0cea0108db5bbd, type: 2}
+        priority: 0
       cost: 0
     tags: []
   onPartUsed:
@@ -56195,7 +56197,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &6351184121820567665
 Transform:
   m_ObjectHideFlags: 0

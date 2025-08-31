@@ -748,6 +748,7 @@ Transform:
   - {fileID: 693578991780290840}
   - {fileID: 5521691999631679786}
   - {fileID: 8541512297870801453}
+  - {fileID: 6694465223455271497}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3306,3 +3307,127 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!1001 &8574549907882897942
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 727883976152978292}
+    m_Modifications:
+    - target: {fileID: 1695982101, guid: d274c30d9c295a646a65594238ad27d7, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 650152886787168693, guid: d274c30d9c295a646a65594238ad27d7,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 723447703187353754, guid: d274c30d9c295a646a65594238ad27d7,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2045856003798768029, guid: d274c30d9c295a646a65594238ad27d7,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3033577942773274719, guid: d274c30d9c295a646a65594238ad27d7,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 3033577942773274719, guid: d274c30d9c295a646a65594238ad27d7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3033577942773274719, guid: d274c30d9c295a646a65594238ad27d7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3033577942773274719, guid: d274c30d9c295a646a65594238ad27d7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3033577942773274719, guid: d274c30d9c295a646a65594238ad27d7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3033577942773274719, guid: d274c30d9c295a646a65594238ad27d7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3033577942773274719, guid: d274c30d9c295a646a65594238ad27d7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3033577942773274719, guid: d274c30d9c295a646a65594238ad27d7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3033577942773274719, guid: d274c30d9c295a646a65594238ad27d7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3033577942773274719, guid: d274c30d9c295a646a65594238ad27d7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3033577942773274719, guid: d274c30d9c295a646a65594238ad27d7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3348729964843261142, guid: d274c30d9c295a646a65594238ad27d7,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4161363562468732824, guid: d274c30d9c295a646a65594238ad27d7,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5000032757203061525, guid: d274c30d9c295a646a65594238ad27d7,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6306884800508770268, guid: d274c30d9c295a646a65594238ad27d7,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8046413201262012234, guid: d274c30d9c295a646a65594238ad27d7,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8063651465425758740, guid: d274c30d9c295a646a65594238ad27d7,
+        type: 3}
+      propertyPath: m_Name
+      value: Falcon Interstage Kra 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8142419770046650015, guid: d274c30d9c295a646a65594238ad27d7,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d274c30d9c295a646a65594238ad27d7, type: 3}
+--- !u!4 &6694465223455271497 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3033577942773274719, guid: d274c30d9c295a646a65594238ad27d7,
+    type: 3}
+  m_PrefabInstance: {fileID: 8574549907882897942}
+  m_PrefabAsset: {fileID: 0}
