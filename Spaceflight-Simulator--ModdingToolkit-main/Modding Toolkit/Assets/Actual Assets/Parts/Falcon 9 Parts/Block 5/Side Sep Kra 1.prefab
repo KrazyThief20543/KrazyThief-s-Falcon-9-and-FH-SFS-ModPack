@@ -1,6 +1,7 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &429179947683805014
 GameObject:
   m_ObjectHideFlags: 0
@@ -211,6 +212,8 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+=======
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 =======
 >>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 --- !u!1 &582717619486188826
@@ -721,6 +724,11 @@ GameObject:
   - component: {fileID: 4270386035372200053}
   - component: {fileID: 4884946474797941952}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  - component: {fileID: 4336626842361246287}
+  - component: {fileID: 1918635345521812177}
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 =======
   - component: {fileID: 4336626842361246287}
   - component: {fileID: 1918635345521812177}
@@ -747,11 +755,16 @@ Transform:
   - {fileID: 8368435219943704038}
   - {fileID: 3669116755569968483}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 453223476238576162}
   - {fileID: 3331220345592481583}
   - {fileID: 3082663477494808583}
   - {fileID: 5966058767257018464}
   - {fileID: 886424678333786915}
+=======
+  - {fileID: 2026795550842065190}
+  - {fileID: 878043307925059309}
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 =======
   - {fileID: 2026795550842065190}
   - {fileID: 878043307925059309}
@@ -773,7 +786,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   displayName:
 <<<<<<< HEAD
+<<<<<<< HEAD
     TranslatableName: Side Booster Seperator
+=======
+    TranslatableName: Side Booster Seperator TEST
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 =======
     TranslatableName: Side Booster Seperator TEST
 >>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
@@ -808,6 +825,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
 <<<<<<< HEAD
+<<<<<<< HEAD
       - m_Target: {fileID: 4164994737146018283}
         m_TargetAssemblyTypeName: SFS.Parts.Modules.DetachModule, Assembly-CSharp
         m_MethodName: Detach
@@ -821,6 +839,9 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 53068489966707977}
+=======
+      - m_Target: {fileID: 1918635345521812177}
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 =======
       - m_Target: {fileID: 1918635345521812177}
 >>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
@@ -908,9 +929,15 @@ MonoBehaviour:
   colliderArea: 0
   attachByOverlap: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   physicsCollider: 1
   clickArea: 1
   baseDepth: 5
+=======
+  physicsCollider: 0
+  clickArea: 1
+  baseDepth: 10
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 =======
   physicsCollider: 0
   clickArea: 1
@@ -935,10 +962,17 @@ MonoBehaviour:
         x:
           variables: {fileID: 1462678241724886282}
 <<<<<<< HEAD
+<<<<<<< HEAD
           input: -1.8
         y:
           variables: {fileID: 1462678241724886282}
           input: -4.975
+=======
+          input: -2.059
+        y:
+          variables: {fileID: 1462678241724886282}
+          input: 0
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 =======
           input: -2.059
         y:
@@ -959,10 +993,17 @@ MonoBehaviour:
         x:
           variables: {fileID: 1462678241724886282}
 <<<<<<< HEAD
+<<<<<<< HEAD
           input: 1.8
         y:
           variables: {fileID: 1462678241724886282}
           input: -4.975
+=======
+          input: 2.059
+        y:
+          variables: {fileID: 1462678241724886282}
+          input: 0
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 =======
           input: 2.059
         y:
@@ -980,7 +1021,11 @@ MonoBehaviour:
   edit: 1
   view: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   gridSize: 0.1
+=======
+  gridSize: 0.005
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 =======
   gridSize: 0.005
 >>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
@@ -1002,7 +1047,11 @@ MonoBehaviour:
     textureMode: 0
     texture:
 <<<<<<< HEAD
+<<<<<<< HEAD
       colorTexture: {fileID: 11400000, guid: b33e39158bc16f4409301bbdd660174c, type: 2}
+=======
+      colorTexture: {fileID: 11400000, guid: 643c72ef34b742741a40668d3a54c0ec, type: 2}
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 =======
       colorTexture: {fileID: 11400000, guid: 643c72ef34b742741a40668d3a54c0ec, type: 2}
 >>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
@@ -1017,7 +1066,11 @@ MonoBehaviour:
     color:
       type: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
       colorBasic: {r: 1, g: 1, b: 1, a: 0}
+=======
+      colorBasic: {r: 1, g: 1, b: 1, a: 1}
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 =======
       colorBasic: {r: 1, g: 1, b: 1, a: 1}
 >>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
@@ -1044,7 +1097,11 @@ MeshRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2738470011026540653}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Enabled: 0
+=======
+  m_Enabled: 1
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 =======
   m_Enabled: 1
 >>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
@@ -1083,7 +1140,10 @@ MeshRenderer:
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 --- !u!114 &4336626842361246287
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1168,6 +1228,9 @@ Transform:
   m_Father: {fileID: 727883976152978292}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
+=======
 >>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 --- !u!1 &3769357728243703541
 GameObject:
@@ -1206,7 +1269,11 @@ Transform:
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &3920832097961217044
+=======
+--- !u!1 &4232844231628558065
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 =======
 --- !u!1 &4232844231628558065
 >>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
@@ -1217,6 +1284,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 5966058767257018464}
   - component: {fileID: 2388775577680152487}
@@ -1235,13 +1303,27 @@ GameObject:
   m_Layer: 8
   m_Name: GameObject (1)
 >>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
+=======
+  - component: {fileID: 878043307925059309}
+  - component: {fileID: 4618186225659360914}
+  - component: {fileID: 3118418783268751616}
+  - component: {fileID: 8267685442374923214}
+  - component: {fileID: 1080095104669411280}
+  m_Layer: 8
+  m_Name: GameObject (1)
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_IsActive: 0
 --- !u!4 &5966058767257018464
+=======
+  m_IsActive: 1
+--- !u!4 &878043307925059309
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 =======
   m_IsActive: 1
 --- !u!4 &878043307925059309
@@ -1252,9 +1334,15 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 3920832097961217044}
   m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
   m_LocalPosition: {x: 4, y: 0, z: 0}
+=======
+  m_GameObject: {fileID: 4232844231628558065}
+  m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: -4.975, z: 0}
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 =======
   m_GameObject: {fileID: 4232844231628558065}
   m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
@@ -1265,9 +1353,15 @@ Transform:
   m_Children: []
   m_Father: {fileID: 727883976152978292}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!114 &2388775577680152487
+=======
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
+--- !u!114 &4618186225659360914
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 =======
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
@@ -1279,7 +1373,11 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 3920832097961217044}
+=======
+  m_GameObject: {fileID: 4232844231628558065}
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 =======
   m_GameObject: {fileID: 4232844231628558065}
 >>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
@@ -1290,7 +1388,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   renderQueueOffset: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   pipeData: {fileID: 2789066044760328068}
+=======
+  pipeData: {fileID: 3118418783268751616}
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 =======
   pipeData: {fileID: 3118418783268751616}
 >>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
@@ -1309,7 +1411,11 @@ MonoBehaviour:
     color:
       type: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
       colorBasic: {r: 0.1254902, g: 0.1254902, b: 0.1254902, a: 1}
+=======
+      colorBasic: {r: 1, g: 0, b: 0, a: 1}
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 =======
       colorBasic: {r: 1, g: 0, b: 0, a: 1}
 >>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
@@ -1321,7 +1427,11 @@ MonoBehaviour:
   separatorRing: 0
   smoothShading: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &4941382324690587481
+=======
+--- !u!114 &3118418783268751616
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 =======
 --- !u!114 &3118418783268751616
 >>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
@@ -1330,6 +1440,7 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 3920832097961217044}
   m_Enabled: 1
@@ -1354,13 +1465,20 @@ MonoBehaviour:
 =======
   m_GameObject: {fileID: 4232844231628558065}
 >>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
+=======
+  m_GameObject: {fileID: 4232844231628558065}
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 305b12a83390f5c488a64145b53f92bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   attachmentSurfaces: 0
+=======
+  attachmentSurfaces: 1
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 =======
   attachmentSurfaces: 1
 >>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
@@ -1397,7 +1515,11 @@ MonoBehaviour:
         x:
           variables: {fileID: 1462678241724886282}
 <<<<<<< HEAD
+<<<<<<< HEAD
           input: 0.2
+=======
+          input: 0.35
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 =======
           input: 0.35
 >>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
@@ -1413,7 +1535,11 @@ MonoBehaviour:
         y:
           variables: {fileID: 1462678241724886282}
 <<<<<<< HEAD
+<<<<<<< HEAD
           input: 1.8
+=======
+          input: -0.4
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 =======
           input: -0.4
 >>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
@@ -1422,7 +1548,11 @@ MonoBehaviour:
         x:
           variables: {fileID: 1462678241724886282}
 <<<<<<< HEAD
+<<<<<<< HEAD
           input: 0.2
+=======
+          input: 0.35
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 =======
           input: 0.35
 >>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
@@ -1433,7 +1563,11 @@ MonoBehaviour:
   view: 1
   gridSize: 0.1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!33 &4309409549095903296
+=======
+--- !u!33 &8267685442374923214
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 =======
 --- !u!33 &8267685442374923214
 >>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
@@ -1443,9 +1577,15 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 3920832097961217044}
   m_Mesh: {fileID: 0}
 --- !u!23 &1565986770199347903
+=======
+  m_GameObject: {fileID: 4232844231628558065}
+  m_Mesh: {fileID: 0}
+--- !u!23 &1080095104669411280
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 =======
   m_GameObject: {fileID: 4232844231628558065}
   m_Mesh: {fileID: 0}
@@ -1457,7 +1597,11 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 3920832097961217044}
+=======
+  m_GameObject: {fileID: 4232844231628558065}
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 =======
   m_GameObject: {fileID: 4232844231628558065}
 >>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
@@ -1496,6 +1640,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &4237169046243854657
 GameObject:
@@ -1689,6 +1834,8 @@ MeshRenderer:
   m_AdditionalVertexStreams: {fileID: 0}
 =======
 >>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
+=======
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 --- !u!1 &4773012520343364751
 GameObject:
   m_ObjectHideFlags: 0
@@ -1864,6 +2011,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &5062115678368813002
 GameObject:
@@ -2112,6 +2260,8 @@ MonoBehaviour:
       m_Calls: []
 =======
 >>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
+=======
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 --- !u!1 &6646599827600180252
 GameObject:
   m_ObjectHideFlags: 0
@@ -2287,6 +2437,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &6950767996116426436
 GameObject:
@@ -2533,6 +2684,8 @@ MonoBehaviour:
   onDetach:
     m_PersistentCalls:
       m_Calls: []
+=======
+>>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 =======
 >>>>>>> parent of 3812354 (Tidying Prefabs Kinda)
 --- !u!1 &7725647467761527472
